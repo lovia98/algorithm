@@ -1,4 +1,4 @@
-package com.algorithm.pr.implementation;
+package com.algorithm.pr.implementation.easy;
 
 import java.util.ArrayList;
 import java.util.List;
